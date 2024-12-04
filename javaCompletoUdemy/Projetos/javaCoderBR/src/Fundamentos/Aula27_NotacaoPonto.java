@@ -1,4 +1,4 @@
-package fundamentos;
+package Fundamentos;
 
 public class Aula27_NotacaoPonto {
     public static void main(String[] args) {

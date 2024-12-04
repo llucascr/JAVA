@@ -1,4 +1,4 @@
-package fundamentos;
+package Fundamentos;
 
 public class Aula29_TipoString {
     public static void main(String[] args) {

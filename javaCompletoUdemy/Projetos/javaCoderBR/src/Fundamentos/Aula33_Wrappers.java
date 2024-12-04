@@ -1,4 +1,4 @@
-package fundamentos;
+package Fundamentos;
 
 public class Aula33_Wrappers {
     public static void main(String[] args) {

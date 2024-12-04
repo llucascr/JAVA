@@ -1,4 +1,4 @@
-package fundamentos;
+package Fundamentos;
 
 public class Aula35_ConversaoTipoPrimitivoNumerico {
     public static void main(String[] args) {

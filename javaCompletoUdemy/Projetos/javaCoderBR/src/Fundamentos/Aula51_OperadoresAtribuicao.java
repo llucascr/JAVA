@@ -1,4 +1,4 @@
-package fundamentos;
+package Fundamentos;
 
 public class Aula51_OperadoresAtribuicao {
     public static void main(String[] args) {

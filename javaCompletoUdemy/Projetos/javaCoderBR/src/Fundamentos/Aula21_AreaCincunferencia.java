@@ -1,4 +1,4 @@
-package fundamentos;
+package Fundamentos;
 
 public class Aula21_AreaCincunferencia {
     public static void main(String[] args) {

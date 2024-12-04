@@ -1,4 +1,4 @@
-package fundamentos;
+package Fundamentos;
 
 public class Aula16_PrimeiroPrograma {
     // Java Doc

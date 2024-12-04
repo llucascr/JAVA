@@ -1,4 +1,4 @@
-package fundamentos;
+package Fundamentos;
 
 public class Aula47_OperadoresLogicos {
     public static void main(String[] args) {

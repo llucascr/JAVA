@@ -1,4 +1,4 @@
-package fundamentos;
+package Fundamentos;
 
 public class Aula53_OperadorTernario {
     public static void main(String[] args) {

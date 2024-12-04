@@ -1,4 +1,4 @@
-package fundamentos;
+package Fundamentos;
 
 public class Aula50_OperadoresRelacionais {
     public static void main(String[] args) {
