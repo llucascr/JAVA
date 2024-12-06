@@ -13,6 +13,5 @@ public class Aula77_For3 {
         // i fora do escopo
         int i = 0;
         System.out.println(i);
-
     }
 }
