@@ -1,8 +1,10 @@
+package ClassesMetodos.Aula113_This;
+
 public class Data {
     int dia;
     int mes;
     int ano;
-//    String nome;
+    boolean bisexto;
 
     Data() {
         this.dia = 1;
@@ -16,12 +18,13 @@ public class Data {
         this.ano = ano;
     }
 
-//    Data (int dia, int mes, int ano, String nome){
-//        this(dia, mes, ano);
-//        this.nome = nome;
-//    }
+    Data (int dia, int mes, int ano, boolean bisexto){
+        this(dia, mes, ano);
+        this.bisexto = bisexto;
+    }
 
     String dataFormatada(){
         return this.dia+"/"+ this.mes+"/"+ this.ano;
     }
 }
+
