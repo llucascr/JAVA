@@ -1,4 +1,4 @@
-package ArraysCollections;
+package ArraysCollections.Arrays;
 
 public class Aula124_Foreach {
     public static void main(String[] args) {
