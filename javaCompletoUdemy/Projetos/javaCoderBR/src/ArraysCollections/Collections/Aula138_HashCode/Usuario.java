@@ -20,6 +20,6 @@ public class Usuario {
     @Override
     public int hashCode() {
         return this.nome.length();
-        return Objects.hashCode(nome);
+//        return Objects.hashCode(nome);
     }
 }
