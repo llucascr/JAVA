@@ -5,7 +5,7 @@ public class Aula143_RelacionamentoUm_Pra_Um {
         Carro c1 = new Carro();
         System.out.println("Ligado: " + c1.estaligado());
 
-        c1.ligar(); // ligou
+        c1.ligar(); // ligou o motor
 
         System.out.println("Ligado: " + c1.estaligado());
 
@@ -33,6 +33,8 @@ public class Aula143_RelacionamentoUm_Pra_Um {
         c1.frear();
 
         System.out.println("Travou em 600 -> Giro motor: " + c1.motor.giros());
+
+        c1.desligar(); // Desliguei o motor
 
     }
 }
