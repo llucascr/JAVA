@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         Carro civic = new Civic();
-        Carro ferrari = new Ferrari();
+        Carro ferrari = new Ferrari(400);
 
         civic.acelerar();
 //        civic.acelerar();

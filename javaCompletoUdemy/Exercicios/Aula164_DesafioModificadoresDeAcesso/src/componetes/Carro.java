@@ -1,14 +1,16 @@
+package componetes;
+
 public class Carro {
 
-    final int VELOCIDADE_MAXIMA;
-    int velocidadeAtual = 0;
-    int delta = 5;
+    public final int VELOCIDADE_MAXIMA;
+    protected int velocidadeAtual = 0;
+    protected int delta = 5;
 
-    Carro(int velocidadeMaxima) {
+    protected Carro(int velocidadeMaxima) {
         this.VELOCIDADE_MAXIMA = velocidadeMaxima;
     }
 
-    void acelerar() {
+    public void acelerar() {
         if (velocidadeAtual + delta > VELOCIDADE_MAXIMA){
             velocidadeAtual = VELOCIDADE_MAXIMA;
         }else {
@@ -16,11 +18,15 @@ public class Carro {
         }
     }
 
-    void freiar() {
+    public void freiar() {
         if (velocidadeAtual >= delta ) {
             velocidadeAtual -= delta;
         }else {
             velocidadeAtual = 0;
         }
+    }
+
+    public int mostrarVelocidade() {
+        return this.velocidadeAtual;
     }
 }
