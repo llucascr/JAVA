@@ -1,4 +1,4 @@
-package OrientadoObjetos.Interface;
+package OrientadoObjetos.Interface.Aula169_Interface01;
 
 public class Aula169_Inteface {
     public static void main(String[] args) {
