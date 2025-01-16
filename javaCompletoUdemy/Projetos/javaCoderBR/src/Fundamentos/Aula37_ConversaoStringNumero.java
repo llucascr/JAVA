@@ -17,7 +17,7 @@ public class Aula37_ConversaoStringNumero {
 
         double soma = numero1 + numero2;
 
-        System.out.println("Soma: " + soma);
+        System.out.println("Somar: " + soma);
         System.out.println("Media: " + soma / 2);
 
         // BigDecimal -> nivel de precisão em soma
