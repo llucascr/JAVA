@@ -86,6 +86,10 @@ public class Campo {
         return marcado;
     }
 
+    public boolean isMinado() {
+        return minado;
+    }
+
     public int getLinha() {
         return linha;
     }
