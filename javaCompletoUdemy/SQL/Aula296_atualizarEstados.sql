@@ -1,0 +1,8 @@
+-- Atualizando os campos da tabela ESTADO
+UPDATE ESTADO SET NOME = "Maranhão" WHERE SIGLA = 'MA';
+
+SELECT NOME FROM ESTADO WHERE SIGLA = 'MA';
+
+UPDATE `ESTADO` SET nome = 'Paraná', populacao = 11.32 WHERE sigla = 'PR';
+
+SELECT NOME, POPULACAO FROM ESTADO WHERE SIGLA = 'PR';
