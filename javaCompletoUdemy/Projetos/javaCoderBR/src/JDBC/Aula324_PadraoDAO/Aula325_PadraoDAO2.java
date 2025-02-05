@@ -9,7 +9,7 @@ public class Aula325_PadraoDAO2 {
         String sql = "INSERT INTO PESSOA (nome) VALUES (?)";
 
         dao.incluir(sql, "Joao"); // Retorna os Ids
-        dao.incluir(sql, "Paulo");
+        System.out.println(dao.incluir(sql, "Paulo"));
         dao.incluir(sql, "Ricardo");
 
         dao.close();

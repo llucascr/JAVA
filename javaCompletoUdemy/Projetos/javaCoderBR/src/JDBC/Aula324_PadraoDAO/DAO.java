@@ -17,7 +17,7 @@ public class DAO {
             adicionarAtributos(stmt, atributos);
 
             if (stmt.executeUpdate() > 0) {
-                ResultSet result = stmt.getGeneratedKeys();
+                ResultSet result = stmt.getGeneratedKeys(); // gera chaves automaticamente
 
                 if (result.next()) {
                     return result.getInt(1);
@@ -48,7 +48,7 @@ public class DAO {
                 stmt.setString(indice, (String) atributo);
             } else if (atributo instanceof Integer) {
                 stmt.setInt(indice, (Integer) atributo);
-            }
+            } // Double, Boolean
             indice++;
         }
     }
@@ -56,7 +56,7 @@ public class DAO {
     private Connection getConnection() {
         try {
             if (connection != null && !connection.isClosed()) {
-                return connection;
+                return connection; // Se a conexao ja estiver aberta ele retorna ela sem precisar criar uma nova
             }
         } catch (SQLException e) {
             throw new RuntimeException(e);
