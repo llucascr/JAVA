@@ -3,16 +3,16 @@
              xmlns="http://xmlns.jcp.org/xml/ns/persistence"
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
              xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
-    <persistence-unit name="aulas-jpa">
+    <persistence-unit name="aulasJpa">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
-
-        <mapping-file>META-INF/consultas.xml</mapping-file>
+        <class>entities.Aulas335_modelo.Usuario</class>
+        <class>entities.Aula343_EntidadeProduto.Produto</class>
 
         <properties>
             <property name="javax.persistence.jdbc.driver"
                       value="com.mysql.jdbc.Driver"/>
             <property name="javax.persistence.jdbc.url"
-                      value="jdbc:mysql://localhost/aulasJpa"/>
+                      value="jdbc:mysql://localhost/aulasJpa?serverTimezone=UTC"/>
             <property name="javax.persistence.jdbc.user"
                       value="root"/>
             <property name="javax.persistence.jdbc.password"
