@@ -5,49 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dab5762-b43e-4205-96fc-165724234829" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CRUD_basico/Aula336_NovoUsuario/Aula336_NovoUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CRUD_basico/Aula337_ObterUsuario/Aula337_ObterUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CRUD_basico/Aula338_ObterUsuarios/Aula338_ObterUsuarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CRUD_basico/Aula339_AlterarUsuarios1a3/Aula339_AlterarUsuario1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CRUD_basico/Aula339_AlterarUsuarios1a3/Aula340_AlterarUsuario2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CRUD_basico/Aula339_AlterarUsuarios1a3/Aula340_AlterarUsuario3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CRUD_basico/Aula342_RemoverUsuario/Aula342_RemoverUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Aula343_EntidadeProduto/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Aulas335_modelo/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/aulas-jpa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/FastInfoset-1.2.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/antlr-2.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/byte-buddy-1.10.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/classmate-1.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/dom4j-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/hibernate-core-5.4.8.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/jandex-2.0.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/javassist-3.24.0-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/javax.activation-api-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/javax.persistence-api-2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/jaxb-api-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/jaxb-runtime-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/mysql-connector-j-9.2.0.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/stax-ex-1.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/libs/txw2-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aulas-jpa/src/META_INF/persistence.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/Aula345_NovoProduto/Aula345_NovoProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/Aula346_ObterProdutos/Aula346_ObterProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/Aula346_ObterProdutos/ProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaUm/Aula348_UmParaUm/Assento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaUm/Aula348_UmParaUm/Aula348_UmParaUm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaUm/Aula348_UmParaUm/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaUm/Aula349_UmParaUm/Aula349_UmParaUm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaUm/Aula350_UmParaUm/Aula350_UmParaUm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +51,11 @@
     "Application.Aula339_AlterarUsuarios1.executor": "Run",
     "Application.Aula340_AlterarUsuario3.executor": "Run",
     "Application.Aula342_RemoverUsuario.executor": "Run",
+    "Application.Aula345_NovoProduto.executor": "Run",
+    "Application.Aula346_ObterProdutos.executor": "Run",
+    "Application.Aula348_UmParaUm.executor": "Run",
+    "Application.Aula349_UmParaUm.executor": "Run",
+    "Application.Aula350_UmParaUm.executor": "Run",
     "Application.NovoUsuario.executor": "Run",
     "Application.teste.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",

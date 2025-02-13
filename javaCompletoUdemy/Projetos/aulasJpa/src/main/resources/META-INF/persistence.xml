@@ -7,6 +7,8 @@
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
         <class>entities.Aulas335_modelo.Usuario</class>
         <class>entities.Aula343_EntidadeProduto.Produto</class>
+        <class>Relacionamentos.UmParaUm.Aula348_UmParaUm.Assento</class>
+        <class>Relacionamentos.UmParaUm.Aula348_UmParaUm.Cliente</class>
 
         <properties>
             <property name="javax.persistence.jdbc.driver"
@@ -20,7 +22,7 @@
 
             <property name="hibernate.dialect"
                       value="org.hibernate.dialect.MySQL57Dialect"/>
-            <property name="hibernate.show_sql" value="true"/>
+<!--            <property name="hibernate.show_sql" value="true"/>-->
             <property name="hibernate.format_sql" value="true"/>
             <property name="hibernate.hbm2ddl.auto" value="update"/>
         </properties>
