@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dab5762-b43e-4205-96fc-165724234829" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/Aula345_NovoProduto/Aula345_NovoProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/Aula346_ObterProdutos/Aula346_ObterProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/Aula346_ObterProdutos/ProdutoDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaUm/Aula348_UmParaUm/Assento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaUm/Aula348_UmParaUm/Aula348_UmParaUm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaUm/Aula348_UmParaUm/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaUm/Aula349_UmParaUm/Aula349_UmParaUm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaUm/Aula350_UmParaUm/Aula350_UmParaUm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaMuitos/Aula351_UmParaMuitos/Aula351_UmParaMuitos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaMuitos/Aula351_UmParaMuitos/ItemPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaMuitos/Aula351_UmParaMuitos/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaMuitos/Aula351_UmParaMuitos/Produto2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaMuitos/Aula352_UmParaMuitos/Aula352_UmaParaMuitos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
@@ -56,18 +53,43 @@
     "Application.Aula348_UmParaUm.executor": "Run",
     "Application.Aula349_UmParaUm.executor": "Run",
     "Application.Aula350_UmParaUm.executor": "Run",
+    "Application.Aula351_UmParaMuitos.executor": "Run",
+    "Application.Aula352_UmaParaMuitos.executor": "Run",
     "Application.NovoUsuario.executor": "Run",
     "Application.teste.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/lucas/DataGripProjects/aulasJpa",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "database.query.execution",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Relacionamentos.UmParaMuitos.Aula351_UmParaMuitos" />
       <recent name="Aula339_AlterarUsuarios1a3" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -77,7 +99,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738791793482</updated>
+      <workItem from="1740085852669" duration="1666000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
