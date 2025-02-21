@@ -15,6 +15,14 @@
         <class>Relacionamentos.UmParaMuitos.Aula351_UmParaMuitos.ItemPedido</class>
         <class>Relacionamentos.UmParaMuitos.Aula351_UmParaMuitos.Produto2</class>
 
+        <class>Relacionamentos.MuitosParaMuitos.Aula354_MuitosParaMuitos.Sobrinho</class>
+        <class>Relacionamentos.MuitosParaMuitos.Aula354_MuitosParaMuitos.Tio</class>
+
+        <class>Relacionamentos.MuitosParaMuitos.Aula355_MuitosParaMuitos.Ator</class>
+        <class>Relacionamentos.MuitosParaMuitos.Aula355_MuitosParaMuitos.Filme</class>
+
+
+
         <properties>
             <property name="javax.persistence.jdbc.driver"
                       value="com.mysql.jdbc.Driver"/>

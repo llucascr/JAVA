@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dab5762-b43e-4205-96fc-165724234829" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaMuitos/Aula351_UmParaMuitos/Aula351_UmParaMuitos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaMuitos/Aula351_UmParaMuitos/ItemPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaMuitos/Aula351_UmParaMuitos/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaMuitos/Aula351_UmParaMuitos/Produto2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/UmParaMuitos/Aula352_UmParaMuitos/Aula352_UmaParaMuitos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/MuitosParaMuitos/Aula354_MuitosParaMuitos/Aula354_MuitosParaMuitos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/MuitosParaMuitos/Aula354_MuitosParaMuitos/Sobrinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/MuitosParaMuitos/Aula354_MuitosParaMuitos/Tio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/MuitosParaMuitos/Aula355_MuitosParaMuitos/Ator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/MuitosParaMuitos/Aula355_MuitosParaMuitos/Aula355_MuitosParaMuitos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Relacionamentos/MuitosParaMuitos/Aula355_MuitosParaMuitos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ef9b6fff-1b79-4960-96ce-5e40eece1169.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ef9b6fff-1b79-4960-96ce-5e40eece1169.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
@@ -55,6 +57,8 @@
     "Application.Aula350_UmParaUm.executor": "Run",
     "Application.Aula351_UmParaMuitos.executor": "Run",
     "Application.Aula352_UmaParaMuitos.executor": "Run",
+    "Application.Aula354_MuitosParaMuitos.executor": "Run",
+    "Application.Aula355_MuitosParaMuitos.executor": "Run",
     "Application.NovoUsuario.executor": "Run",
     "Application.teste.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -62,7 +66,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/lucas/DataGripProjects/aulasJpa",
+    "last_opened_file_path": "/home/lucas/Desktop/JAVA/javaCompletoUdemy/Projetos/aulasJpa/src/main/java/Relacionamentos/MuitosParaMuitos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,11 +77,15 @@
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
-      "mysql"
+      "mysql",
+      "oracle"
     ]
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Relacionamentos/MuitosParaMuitos" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Relacionamentos.UmParaMuitos.Aula351_UmParaMuitos" />
       <recent name="Aula339_AlterarUsuarios1a3" />
@@ -99,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738791793482</updated>
-      <workItem from="1740085852669" duration="1666000" />
+      <workItem from="1740085852669" duration="8102000" />
     </task>
     <servers />
   </component>
